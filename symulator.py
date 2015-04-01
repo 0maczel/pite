@@ -22,7 +22,7 @@ class RepairFly :
         else:
            print "Correction to left ",self.dict["alpha"]
 
-   			
+#zmieniam ta linijke   			
 
 
 
